@@ -1,0 +1,9 @@
+
+RAVDEES DATASET 
+librosa 
+sklearn
+pyaudio 
+numpy 
+ Flask
+werkzeug
+numba==0.48
